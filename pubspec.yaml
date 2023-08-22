@@ -5,7 +5,10 @@ description: >
 version: 4.0.2
 homepage: https://github.com/theyakka/qr.flutter
 
-sdk: ">=3.0.0"
+
+environment:
+  sdk: ">=3.0.0"
+
 
 dependencies:
   flutter:
