@@ -6,10 +6,8 @@ version: 2.0.0
 homepage: https://github.com/lukef/qr.flutter
 publish_to: none
 
-
 environment:
   sdk: ">=3.0.0"
-
 
 dependencies:
   flutter:
@@ -17,7 +15,7 @@ dependencies:
   qr_flutter: 4.0.2
   # path: ../
 dependency_overrides:
-  http: ^1.1.0
+  http: ^1.1.2
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
