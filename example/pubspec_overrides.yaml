@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: http,meta,qr_flutter
+dependency_overrides:
+  http: ^1.1.2
+  meta: ^1.11.0
+  qr_flutter:
+    path: ..
