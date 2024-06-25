@@ -17,6 +17,7 @@ dependencies:
 dependency_overrides:
   http: ^1.1.2
   meta: ^1.11.0
+  sane_uuid: 1.0.0-alpha.5
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
