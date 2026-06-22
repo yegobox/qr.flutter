@@ -15,6 +15,11 @@ dependencies:
   qr_flutter: 4.0.2
   # path: ../
 dependency_overrides:
+  xml: ^7.0.1
+  smithy:
+    path: ../../smithy
+  smithy_aws:
+    path: ../../smithy_aws
   http: ^1.1.2
   meta: ^1.11.0
   

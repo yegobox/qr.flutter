@@ -1,6 +1,11 @@
-# melos_managed_dependency_overrides: qr_flutter,http,meta
+# melos_managed_dependency_overrides: qr_flutter,smithy,smithy_aws,xml,http,meta
 dependency_overrides:
   qr_flutter:
     path: ..
+  smithy:
+    path: ../../smithy
+  smithy_aws:
+    path: ../../smithy_aws
+  xml: ^7.0.1
   http: ^1.1.2
   meta: ^1.11.0
